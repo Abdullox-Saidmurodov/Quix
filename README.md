@@ -1,1 +1,1 @@
-# Quix
+# Quiz
